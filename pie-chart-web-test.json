@@ -1,0 +1,14 @@
+{
+  "item": [
+    {
+      "value": 37,
+      "label": "Structured",
+      "color": "014783"
+    },
+    {
+      "value": 63,
+      "label": "Unstructured",
+      "color": "c60000"
+    }
+  ]
+}
