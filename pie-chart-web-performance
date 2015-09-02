@@ -1,0 +1,14 @@
+{
+  "item": [
+    {
+      "value": 40,
+      "label": "Weak",
+      "color": "13699c"
+    },
+    {
+      "value": 60,
+      "label": "Strong",
+      "color": "B22222"
+    }
+  ]
+}
