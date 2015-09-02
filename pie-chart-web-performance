@@ -2,12 +2,12 @@
   "item": [
     {
       "value": 40,
-      "label": "Weak",
+      "label": "Strong",
       "color": "13699c"
     },
     {
       "value": 60,
-      "label": "Strong",
+      "label": "Weak",
       "color": "B22222"
     }
   ]
